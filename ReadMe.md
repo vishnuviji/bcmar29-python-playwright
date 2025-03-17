@@ -6,6 +6,7 @@ This project demonstrates how to use Playwright with Python for end-to-end testi
 
 - [Python](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads) 
+- [Visual Studio Code](https://code.visualstudio.com/download) (optional)
 
 ## Setup
 
